@@ -22,7 +22,7 @@ Sample Code
 
 The sample app provides a more complete example. However, at minimum, you must:
 
-1. Add PayPal Android SDK dependency to your `build.gradle` file as shown in README.md
+1. Add Social Wallet Android SDK dependency to your `build.gradle` file as shown in README.md
 
 1. Create a `SocialWalletConfiguration` object
     ```java
