@@ -26,7 +26,7 @@ compile 'com.solitondigital.mobilewallet.sdk:socialwallet-android-sdk:0.0.1'
 
 ## Use Cases
 
-The SDK supports two use cases for making payments - **Single Payment**
+The SDK supports single use cases for making payments - **Single Payment**
 
 
 ### Single Payment
@@ -100,7 +100,7 @@ Depending on your use case, you can now:
 
 ## Contact
 
-You may reached us at support@solitondigital.com
+You may reached us at sdk@solitondigital.io
 
 
 ## License
